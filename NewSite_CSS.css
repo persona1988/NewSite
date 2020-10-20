@@ -1,0 +1,19 @@
+body {
+    color: black;
+    padding: top;
+    background-color: rosybrown;
+}
+
+a {
+    color: green;
+    font-size: 18;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px;
+    padding: 15px 5px 10px 5px;
+}
+
+#p1 {
+    color: blue;
+}
+
+style='color: green; padding: 5px 5px 10px 5px
